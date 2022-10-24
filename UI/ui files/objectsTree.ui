@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>320</width>
+    <height>566</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QTreeWidget" name="treeWidget">
+     <property name="mouseTracking">
+      <bool>true</bool>
+     </property>
+     <property name="alternatingRowColors">
+      <bool>true</bool>
+     </property>
+     <property name="autoExpandDelay">
+      <number>1</number>
+     </property>
+     <property name="indentation">
+      <number>33</number>
+     </property>
+     <property name="sortingEnabled">
+      <bool>true</bool>
+     </property>
+     <property name="animated">
+      <bool>true</bool>
+     </property>
+     <column>
+      <property name="text">
+       <string>Structure</string>
+      </property>
+     </column>
+     <item>
+      <property name="text">
+       <string>Supports</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>../icons/hinge.png</normaloff>../icons/hinge.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Segments</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>../icons/line.png</normaloff>../icons/line.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Loads</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>../icons/polyload.png</normaloff>../icons/polyload.png</iconset>
+      </property>
+     </item>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

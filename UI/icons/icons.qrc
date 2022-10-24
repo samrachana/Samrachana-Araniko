@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>SDicon.svg</file>
+    <file>analyze.png</file>
+    <file>simulate.png</file>
+    <file>arc.png</file>
+    <file>fixed.png</file>
+    <file>hinge.png</file>
+    <file>internalHinge.jpg</file>
+    <file>line.png</file>
+    <file>moment.jpg</file>
+    <file>point.png</file>
+    <file>polyload.png</file>
+    <file>quad.png</file>
+    <file>roller.png</file>
+    <file>troller.png</file>
+    <file>UDL.png</file>
+    <file>UVL.png</file>
+    <file>zoomin.jpg</file>
+    <file>zoomout.jpg</file>
+  </qresource>
+</RCC>

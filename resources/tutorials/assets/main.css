@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: url('bckg.png');
+    overflow: hidden;
+}
+
+#navbar {
+    background: black;
+    width: 100%;
+    justify-items: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    opacity: 0.75;
+    display: flex;
+    transition-duration: 1s;
+}
+
+#navbar:hover {
+    opacity: 0.95;
+}
+
+#menuIcon {
+    opacity: 1;
+    position: absolute;
+    left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#homeIcon {
+    opacity: 1;
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+    margin-top: 0px;
+}
+
+#titleName {
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#sideMenu {
+    display: absolute;
+    left: 0px;
+    top: 0px;
+    height: 10000px;
+    background: black;
+    opacity: 0;
+    width: 0%;
+    color: white;
+    overflow-y: auto;
+}
+
+ol {
+    text-align: left;
+    padding: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    transition-duration: 0.5s;
+}
+
+ol:hover {
+    background: gray;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#mainIcon {
+    margin-left: 43%;
+}
+
+#search,
+#content {
+    background: rgb(6, 0, 19);
+    opacity: 0.8;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 83px;
+    left: 0;
+    transition: 1s;
+    padding-top: 10%;
+}
+
+#content {
+    background: white;
+    opacity: 1;
+    width: 90%;
+    overflow: auto;
+    margin-left: 5%;
+    padding-top: 10px;
+}
+
+#content p {
+    text-align: justify;
+    font-size: 20px;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#search:hover {
+    opacity: 0.95;
+}
+
+#searchBox {
+    height: 40px;
+    width: 500px;
+    border: none;
+    opacity: 0.25;
+    transition: 1s;
+    font-size: 18px;
+    color: rgb(10, 10, 37);
+    background: rgb(241, 226, 226);
+}
+
+#searchBox:focus {
+    outline: none;
+    opacity: 1;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0px;
+    background: rgb(9, 1, 22);
+    color: whitesmoke;
+    height: 30px;
+    width: 100%;
+    padding-top: 10px;
+    opacity: 0.5;
+}
+
+#searchResults {
+    background: rgb(16, 3, 26);
+    position: relative;
+    top: 0px;
+    left: 25%;
+    width: 50%;
+    height: 300px;
+    overflow-y: auto;
+    opacity: 0;
+    transition-duration: 0.5s;
+    margin-top: 10px;
+}
+
+#searchIcon {
+    position: relative;
+    top: 10px;
+}
+
+#pageNo {
+    display: none;
+}
+
+#next,
+#prev {
+    font-size: 200px;
+    position: absolute;
+    color: white;
+    background: rgb(12, 1, 24);
+    bottom: 0;
+    padding-top: 5%;
+    width: 25%;
+    opacity: 0;
+    transition-duration: 0.5s;
+}
+
+#scrnSize {
+    position: relative;
+    left: 47.5%;
+    font-size: 40px;
+    cursor: pointer;
+    width: 5%;
+}
+
+#next:hover,
+#prev:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}

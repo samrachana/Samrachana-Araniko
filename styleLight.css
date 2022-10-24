@@ -1,0 +1,238 @@
+* {
+    color: black;
+}
+
+QLineEdit,
+QComboBox,
+QSpinBox,
+QPushButton,
+QDoubleSpinBox {
+    background-color: rgb(235, 245, 250);
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 6px;
+    padding: 0 8px 3px 8px;
+    font-size: 12px;
+    margin: 3px;
+    min-width: 50px;
+    min-height: 16px;
+}
+
+QComboBox:on,
+QComboBox:hover,
+QLineEdit:hover,
+QLineEdit:focus,
+QSpinBox:on,
+QSpinBox:hover,
+QDoubleSpinBox:on,
+QDoubleSpinBox:hover,
+QPushButton:hover {
+    background-color: rgb(215, 230, 255);
+    border: 1px solid rgb(110, 110, 110);
+}
+
+QLabel {
+    border-radius: 10px;
+    padding-left: 3px;
+    font-size: 12px;
+    width: fit-content;
+}
+
+QDialog,
+QTreeWidget,
+QToolBar {
+    /* background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 rgb(240, 250, 255), stop: 1 rgb(245, 247, 253)); */
+    background: rgb(240, 245, 255);
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 6px;
+}
+
+QMainWindow,
+QMenuBar {
+    background: rgb(235, 240, 255);
+    border: none;
+}
+
+QGraphicsView {
+    /* background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 rgb(250, 250, 250), stop: 1 rgb(255, 255, 255)); */
+    background: rgb(240, 250, 255);
+    border-radius: 6px;
+    border: 0.5px solid rgb(180, 180, 180);
+    padding: 6px;
+}
+
+QDockWidget:title {
+    text-align: left;
+    background: rgb(230, 245, 255);
+    padding-left: 5px;
+    border-radius: 6px;
+    border-top: 0.5px solid rgb(180, 180, 180);
+}
+
+QComboBox::drop-down {
+    width: 15px;
+    border-left: 0.5px solid rgb(180, 180, 180);
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+QComboBox::down-arrow {
+    image: url('./ico/da.png')
+}
+
+QStatusBar {
+    font-size: 18px;
+    border-top: 0.5px solid rgb(190, 190, 190);
+    border-radius: 6px;
+}
+
+QSpinBox,
+QDoubleSpinBox {
+    padding-right: 3px;
+}
+
+QSpinBox::up-button,
+QSpinBox::down-button,
+QDoubleSpinBox::up-button,
+QDoubleSpinBox::down-button {
+    background: rgba(255, 255, 255, 0);
+    height: 10px;
+    margin-right: 2px;
+    border-left: 0.5px solid rgb(180, 180, 180);
+}
+
+QSpinBox::up-button,
+QDoubleSpinBox::up-button {
+    border-top-right-radius: 6px;
+}
+
+QSpinBox::down-button,
+QDoubleSpinBox::down-button {
+    border-bottom-right-radius: 6px;
+}
+
+QSpinBox::up-arrow,
+QDoubleSpinBox::up-arrow {
+    image: url('./ico/ua.png');
+}
+
+QSpinBox::down-arrow,
+QDoubleSpinBox::down-arrow {
+    image: url('./ico/da.png');
+}
+
+QScrollBar:horizontal {
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0);
+    height: 12px;
+    margin: 0px 20px 0px 20px;
+}
+
+QScrollBar::handle:horizontal {
+    background: rgb(220, 220, 220);
+    border-radius: 3px;
+    height: 6px;
+    min-width: 4px;
+    margin: 1px
+}
+
+QScrollBar::add-line:horizontal {
+    background: none;
+    width: 18px;
+    height: 8px;
+    subcontrol-position: right;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+    background: none;
+    width: 18px;
+    height: 8px;
+    subcontrol-position: left;
+    subcontrol-origin: margin;
+}
+
+QScrollBar:left-arrow:horizontal {
+    image: url('./ico/la.png');
+    margin-bottom: 1px;
+}
+
+QScrollBar:right-arrow:horizontal {
+    image: url('./ico/ra.png');
+    margin-bottom: 1px;
+}
+
+QScrollBar::add-page:horizontal,
+QScrollBar::sub-page:horizontal {
+    background: none;
+}
+
+QScrollBar:vertical {
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0);
+    width: 12px;
+    margin: 20px 0px 20px 0px;
+}
+
+QScrollBar::handle:vertical {
+    background: rgb(220, 220, 220);
+    border-radius: 3px;
+    width: 6px;
+    min-height: 4px;
+    margin: 1px
+}
+
+QScrollBar::add-line:vertical {
+    background: none;
+    height: 18px;
+    width: 8px;
+    subcontrol-position: bottom;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:vertical {
+    background: none;
+    height: 18px;
+    width: 8px;
+    subcontrol-position: top;
+    subcontrol-origin: margin;
+}
+
+QScrollBar:down-arrow:vertical {
+    image: url('./ico/da.png');
+    margin-right: 1px;
+}
+
+QScrollBar:up-arrow:vertical {
+    image: url('./ico/ua.png');
+    margin-right: 1px;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+QScrollBar::handle:horizontal:hover,
+QScrollBar::handle:vertical:hover {
+    background: rgb(200, 200, 200);
+}
+
+QMenu,
+QListView {
+    background: rgb(240, 245, 255);
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 6px;
+}
+
+QMenu::item:selected {
+    background: rgb(205, 220, 245);
+    color: black;
+}
+
+QMenu::item {
+    padding: 6px 12px 6px 12px;
+    font-size: 12px;
+    border-radius: 6px;
+}

@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="32"
+   viewBox="0 0 42.333332 8.4666668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="supports.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4758"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4756"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="SquareL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#fcf8f5;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path907" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path901" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path898" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="SquareS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#e8e8fc;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path913" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3800"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3798" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DotS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path904" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="131.98384"
+     inkscape:cy="62.416596"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,160"
+       inkscape:locked="false"
+       id="guide3975" />
+    <sodipodi:guide
+       position="42.333333,0"
+       orientation="-32,0"
+       inkscape:locked="false"
+       id="guide3977" />
+    <sodipodi:guide
+       position="42.333333,8.4666666"
+       orientation="0,-160"
+       inkscape:locked="false"
+       id="guide3979" />
+    <sodipodi:guide
+       position="0,8.4666666"
+       orientation="32,0"
+       inkscape:locked="false"
+       id="guide3981" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53332)">
+    <rect
+       y="288.53452"
+       x="33.867512"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect3995"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3997"
+       width="8.4658194"
+       height="8.4654856"
+       x="25.401691"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3999"
+       width="8.4658194"
+       height="8.4654856"
+       x="16.935871"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="288.53452"
+       x="8.4700642"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect4001"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4003"
+       width="8.4658194"
+       height="8.4654856"
+       x="0"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4009"
+       width="8.4335938"
+       height="1.1575521"
+       x="0"
+       y="295.03925"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.12354416;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4011"
+       width="4.5829611"
+       height="0.68508184"
+       x="1.8568079"
+       y="288.60419"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#b92929;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 3.6616444,295.03924 1.3701635,1.15755 3.4017857,2e-5 -3.4962797,-1.1812 z"
+       id="path4018"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <g
+       id="g4027"
+       transform="matrix(1.3516484,0,0,1.3516484,-1.6424351,-103.8383)"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379">
+      <circle
+         r="2.1497395"
+         cy="292.99347"
+         cx="4.2758555"
+         id="path4007"
+         style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4013"
+         d="m 2.190414,292.43272 a 2.1497395,2.1497395 0 0 0 0.08443,1.37848 2.1497395,2.1497395 0 0 0 2.8060604,1.16996 2.1497395,2.1497395 0 0 0 1.2187373,-1.30507 l 0.00131,-0.0145 -3.9742443,-1.27656 z"
+         style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       y="288.53452"
+       x="8.4666662"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect4044"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="295.03925"
+       x="8.4666662"
+       height="1.1575521"
+       width="8.4335938"
+       id="rect4046"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="288.60419"
+       x="10.323473"
+       height="0.68508184"
+       width="4.5829611"
+       id="rect4048"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.12354416;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4050"
+       d="m 9.3549106,295.06286 2.7733294,1.15755 4.805087,-0.0236 0.0167,-0.67653 -1.027784,-0.45742 z"
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4058"
+       width="8.4658194"
+       height="8.4654856"
+       x="16.936724"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4060"
+       width="8.4658194"
+       height="8.4654856"
+       x="16.933327"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4062"
+       width="8.4335938"
+       height="1.1575521"
+       x="16.933327"
+       y="295.03925"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.12354416;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4064"
+       width="4.5829611"
+       height="0.68508184"
+       x="18.790138"
+       y="288.60419"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.434497,295.06907 1.370164,1.15755 3.401788,2e-5 -3.496282,-1.1812 z"
+       id="path4066"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="288.53452"
+       x="33.869221"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect4074"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4076"
+       width="8.4658194"
+       height="8.4654856"
+       x="25.403399"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4078"
+       width="8.4658194"
+       height="8.4654856"
+       x="25.400002"
+       y="288.53452"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="288.53452"
+       x="33.870071"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect4092"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="288.53452"
+       x="33.866676"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect4094"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="295.03925"
+       x="33.866676"
+       height="1.1575521"
+       width="8.4335938"
+       id="rect4096"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="288.60419"
+       x="35.723488"
+       height="0.68508184"
+       width="4.5829611"
+       id="rect4098"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.12354416;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#dd3f3f;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 12.614955,289.34597 -3.2600444,5.71689 h 6.5673364 z"
+       id="path4108"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <ellipse
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.23846154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4110"
+       cx="12.62404"
+       cy="289.39322"
+       rx="0.78866184"
+       ry="0.73232889"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#e36c6c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 10.857824,292.35618 4.643809,1.97111 0.420614,0.73557 H 9.3549104 Z"
+       id="path4112"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4114"
+       width="1.2498453"
+       height="5.7561789"
+       x="18.790138"
+       y="289.28928"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       y="289.28928"
+       x="20.460321"
+       height="5.7561789"
+       width="1.2498453"
+       id="rect4116"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4118"
+       width="1.2498453"
+       height="5.7561789"
+       x="22.123255"
+       y="289.28928"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4120"
+       d="m 18.764314,295.06907 1.370164,1.15755 3.401788,2e-5 -3.496282,-1.1812 z"
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.166102,295.06909 1.370164,1.15755 1.830654,-0.0298 -0.01549,-0.50618 -1.909657,-0.64517 z"
+       id="path4122"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#e36c6c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 18.764314,295.06907 -0.02204,-2.91334 1.26953,0.60135 0.02818,2.28836 z"
+       id="path4124"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4126"
+       d="m 20.434497,295.06907 0.01137,-2.17835 1.26953,0.60135 -0.0052,1.55337 z"
+       style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.095231,295.05728 0.01137,-1.44336 1.26953,0.60135 -0.0052,0.81838 z"
+       id="path4128"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolFixed.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4142"
+       width="8.4658194"
+       height="8.4654856"
+       x="25.389225"
+       y="288.51089"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144"
+       width="8.4658194"
+       height="8.4654856"
+       x="25.385828"
+       y="288.51089"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4146"
+       width="8.4335938"
+       height="1.1575521"
+       x="25.385828"
+       y="295.01562"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.12354416;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4148"
+       width="4.5829611"
+       height="0.68508184"
+       x="-109.4911"
+       y="270.84009"
+       transform="rotate(-26.999651)"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.27408,295.03924 2.77333,1.15755 4.805087,-0.0236 0.0167,-0.67653 -1.027784,-0.45742 z"
+       id="path4150"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4152"
+       d="m 29.534125,289.32235 -3.260045,5.71689 h 6.567337 z"
+       style="fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <ellipse
+       ry="0.73232889"
+       rx="0.78866184"
+       cy="289.3696"
+       cx="29.543209"
+       id="ellipse4154"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.23846154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4156"
+       d="m 27.776994,292.33256 4.643809,1.97111 0.420614,0.73557 H 26.27408 Z"
+       style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       transform="matrix(-0.89100929,-0.45398507,-0.45398507,0.89100929,0,0)"
+       y="243.99139"
+       x="-162.23744"
+       height="0.68508184"
+       width="4.5829611"
+       id="rect4158"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.12354416;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.06651893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4162"
+       width="4.1823039"
+       height="4.1735868"
+       x="-178.80095"
+       y="239.72459"
+       transform="matrix(0.74000632,-0.67259991,0.6972802,0.71679866,0,0)"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#e36c6c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 35.613665,292.89072 2.873147,1.57021 -0.735274,0.62646 z"
+       id="path4164"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.74762px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0936906"
+       x="28.333567"
+       y="382.02081"
+       id="text4168"
+       transform="scale(1.3026593,0.76766044)"
+       inkscape:export-filename="C:\Users\badaf\ico\toolCustomSupport.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="28.333567"
+         y="382.02081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:0.0936906">?</tspan></text>
+    <rect
+       inkscape:export-ydpi="94.879379"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       y="302.26944"
+       x="16.919153"
+       height="8.4654856"
+       width="8.4658194"
+       id="rect4170"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g980"
+       transform="matrix(1.4814094,0,0,1.4814094,9.5977756,-146.73188)"
+       style="stroke-width:0.675032"
+       inkscape:export-filename="C:\Users\badaf\sd\ico\Tools\Light\toolSelect.png"
+       inkscape:export-xdpi="144.01436"
+       inkscape:export-ydpi="144.01436">
+      <path
+         style="fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.19965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 20.466902,308.74706 -1.26756,-2.16542 -1.690079,0.73942 0.475335,-4.17238 3.591418,2.27104 -1.47882,0.73941 1.233418,2.13448 z"
+         id="path4751"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.19965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 17.755055,305.16427 2.342141,0.99486 1.233418,2.13448 -0.863712,0.45345 -1.26756,-2.16542 -1.690079,0.73942 z"
+         id="path4753"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.11178477;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4755"
+       sodipodi:sides="5"
+       sodipodi:cx="17.805839"
+       sodipodi:cy="302.85562"
+       sodipodi:r1="0.68659467"
+       sodipodi:r2="0.34329736"
+       sodipodi:arg1="0.39479112"
+       sodipodi:arg2="1.0231097"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 18.439619,303.1197 -0.45502,0.029 -0.234061,0.39128 -0.168198,-0.42379 -0.444458,-0.10169 0.351068,-0.29093 -0.04063,-0.45413 0.38517,0.24399 0.419348,-0.17898 -0.11302,0.44172 z"
+       inkscape:transform-center-x="0.01708982"
+       inkscape:transform-center-y="0.04910386" />
+    <rect
+       inkscape:export-ydpi="94.879379"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       y="309.59366"
+       x="21.067846"
+       height="0.55388629"
+       width="4.0354571"
+       id="rect4759"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.0478498;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="94.879379"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       y="306.5144"
+       x="21.956326"
+       height="0.32781023"
+       width="2.1929371"
+       id="rect4761"
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.05911563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="94.879379"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:connector-curvature="0"
+       id="path4763"
+       d="m 22.819934,309.59359 0.655621,0.55389 h 1.627747 l -1.672962,-0.56519 z"
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.12660256px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="94.879379"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       transform="matrix(0.64676092,0,0,0.64676092,20.281943,118.73152)"
+       id="g4769">
+      <circle
+         style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4765"
+         cx="4.2758555"
+         cy="292.99347"
+         r="2.1497395" />
+      <path
+         style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 2.190414,292.43272 a 2.1497395,2.1497395 0 0 0 0.08443,1.37848 2.1497395,2.1497395 0 0 0 2.8060604,1.16996 2.1497395,2.1497395 0 0 0 1.2187373,-1.30507 l 0.00131,-0.0145 -3.9742443,-1.27656 z"
+         id="path4767"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4771"
+       width="8.4658194"
+       height="8.4654856"
+       x="25.385828"
+       y="302.26944"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.0478498;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4779"
+       width="4.0354571"
+       height="0.55388629"
+       x="29.816189"
+       y="310.18103"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.05911563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4781"
+       width="2.1929371"
+       height="0.32781023"
+       x="30.704668"
+       y="307.10178"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.12660256px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.568274,310.18097 0.655621,0.55389 h 1.627747 l -1.672962,-0.56519 z"
+       id="path4783"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <g
+       id="g4789"
+       transform="matrix(0.64676092,0,0,0.64676092,29.030283,119.3189)"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379">
+      <circle
+         r="2.1497395"
+         cy="292.99347"
+         cx="4.2758555"
+         id="circle4785"
+         style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4787"
+         d="m 2.190414,292.43272 a 2.1497395,2.1497395 0 0 0 0.08443,1.37848 2.1497395,2.1497395 0 0 0 2.8060604,1.16996 2.1497395,2.1497395 0 0 0 1.2187373,-1.30507 l 0.00131,-0.0145 -3.9742443,-1.27656 z"
+         style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4823"
+       transform="matrix(-0.43061112,0.17203877,0.18121567,0.40880465,-25.312323,179.72645)">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4798"
+         transform="matrix(0.26458333,0,0,0.26458333,0,288.53332)"
+         d="m 1.9570312,43.197266 v 19.33789 h 4.609375 L 9.155692,58.515625 h 15.40346 l 2.589286,4.019531 h 4.607421 V 43.197266 H 27.148438 L 24.827009,47.30413 9.5128348,47.214844 6.5664062,43.197266 Z"
+         style="opacity:1;fill:#2631a2;fill-opacity:1;stroke:none;stroke-width:0.48895776;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect4807"
+         d="M 3.1574347,303.98215 H 5.6567883 L 5.3260591,316.8709 H 3.4881639 Z"
+         style="opacity:1;fill:#2631a2;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4812"
+         d="m 3.3408691,309.62847 2.1381561,1.93771 -0.1529662,5.30472 H 3.488164 Z"
+         style="fill:#525fde;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="299.96259"
+         x="0.51779783"
+         height="5.1164837"
+         width="1.2195638"
+         id="rect4814"
+         style="opacity:1;fill:#525fde;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="299.96259"
+         x="7.1830239"
+         height="5.1164837"
+         width="1.2190467"
+         id="rect4816"
+         style="opacity:1;fill:#525fde;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.10118076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4825"
+       width="8.4658194"
+       height="8.4654856"
+       x="8.4524918"
+       y="302.26944"
+       inkscape:export-filename="C:\Users\badaf\ico\toolIntHinge.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.06226924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4833"
+       width="5.2515335"
+       height="0.72079873"
+       x="11.291555"
+       y="306.59271"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <rect
+       style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.07693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4835"
+       width="2.8537741"
+       height="0.42659512"
+       x="12.447773"
+       y="302.58554"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <path
+       style="fill:#b92929;fill-opacity:1;stroke:none;stroke-width:0.16475397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 13.571627,306.59264 0.853191,0.7208 h 2.118265 l -2.177105,-0.73552 z"
+       id="path4837"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379" />
+    <g
+       id="g4843"
+       transform="matrix(0.84166094,0,0,0.84166094,10.268818,58.214687)"
+       inkscape:export-filename="C:\Users\badaf\ico\toolRoller.png"
+       inkscape:export-xdpi="94.879379"
+       inkscape:export-ydpi="94.879379">
+      <circle
+         r="2.1497395"
+         cy="292.99347"
+         cx="4.2758555"
+         id="circle4839"
+         style="opacity:1;fill:#dd3f3f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4841"
+         d="m 2.190414,292.43272 a 2.1497395,2.1497395 0 0 0 0.08443,1.37848 2.1497395,2.1497395 0 0 0 2.8060604,1.16996 2.1497395,2.1497395 0 0 0 1.2187373,-1.30507 l 0.00131,-0.0145 -3.9742443,-1.27656 z"
+         style="fill:#e36c6c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="25.221788"
+       inkscape:export-xdpi="25.221788"
+       transform="matrix(0.38231335,-0.12943509,0.12943509,0.38231335,-29.270298,197.00055)"
+       id="g4630">
+      <path
+         style="opacity:0.98999999;fill:#4949b3;fill-opacity:1;stroke:#000000;stroke-width:0.07808951;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 10.286519,279.4433 c 0.906781,0.11698 1.675502,0.47728 2.09028,1.46137 0.120131,0.22753 0.07069,0.29717 -0.06476,0.50983 l -8.7799435,13.78413 c -0.4540732,-1.05896 -1.1526003,-1.97649 -3.2039381,-2.11139 l 9.3408774,-13.38709 c 0.2194652,-0.2373 0.3545982,-0.25603 0.6175022,-0.25687 z"
+         id="rect3675"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="opacity:0.98999999;fill:#fac904;fill-opacity:1;stroke:#000000;stroke-width:0.07808951;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0.32816464,293.08722 c 1.79544716,0.0353 2.66941176,0.91742 3.20393876,2.11139 l -3.56980005,1.8584 z"
+         id="rect3677"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3680"
+         d="m 0.17748367,295.02801 c 0.48148426,-0.19018 1.39233293,0.19447 1.69435273,0.99316 l -1.90953305,1.03584 z"
+         style="opacity:0.98999999;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.07808951;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3683"
+         d="m 10.719313,279.56527 c 0.445653,0.2125 1.009572,0.2514 1.314522,0.88843 l -8.8333281,13.97413 c -0.4053839,-0.5629 -0.9529764,-1.00545 -1.8641717,-1.29478 z"
+         style="opacity:0.98999999;fill:#6363f0;fill-opacity:0.99215686;stroke:none;stroke-width:0.07808951;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.101181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect976"
+       width="8.4658194"
+       height="8.4654856"
+       x="34.315517"
+       y="302.26944"
+       inkscape:export-filename="C:\Users\badaf\sd\ico\Tools\Light\toolSelect.png"
+       inkscape:export-xdpi="144.01436"
+       inkscape:export-ydpi="144.01436" />
+  </g>
+</svg>

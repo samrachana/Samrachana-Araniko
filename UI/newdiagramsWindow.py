@@ -1,0 +1,95 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'newdiagramsWindow.ui'
+#
+# Created by: PySide2 UI code generator 5.13.2
+#
+# WARNING! All changes made in this file will be lost!
+
+
+from PySide2 import QtCore, QtGui, QtWidgets
+
+
+class Ui_MainWindow(object):
+    def setupUi(self, MainWindow):
+        MainWindow.setObjectName("MainWindow")
+        MainWindow.resize(1085, 487)
+        self.centralwidget = QtWidgets.QWidget(MainWindow)
+        self.centralwidget.setObjectName("centralwidget")
+        self.gridLayout_2 = QtWidgets.QGridLayout(self.centralwidget)
+        self.gridLayout_2.setObjectName("gridLayout_2")
+        self.label = QtWidgets.QLabel(self.centralwidget)
+        self.label.setAlignment(QtCore.Qt.AlignRight|QtCore.Qt.AlignTrailing|QtCore.Qt.AlignVCenter)
+        self.label.setObjectName("label")
+        self.gridLayout_2.addWidget(self.label, 0, 0, 1, 1)
+        self.comboBox = QtWidgets.QComboBox(self.centralwidget)
+        self.comboBox.setObjectName("comboBox")
+        self.gridLayout_2.addWidget(self.comboBox, 0, 1, 1, 1)
+        self.tabWidget = QtWidgets.QTabWidget(self.centralwidget)
+        self.tabWidget.setObjectName("tabWidget")
+        self.actionsGraph = QtWidgets.QWidget()
+        self.actionsGraph.setObjectName("actionsGraph")
+        self.gridLayout = QtWidgets.QGridLayout(self.actionsGraph)
+        self.gridLayout.setObjectName("gridLayout")
+        self.label_2 = QtWidgets.QLabel(self.actionsGraph)
+        self.label_2.setMaximumSize(QtCore.QSize(16777215, 24))
+        font = QtGui.QFont()
+        font.setPointSize(15)
+        self.label_2.setFont(font)
+        self.label_2.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_2.setObjectName("label_2")
+        self.gridLayout.addWidget(self.label_2, 0, 0, 1, 1)
+        self.actionDiagramsMenu = QtWidgets.QToolButton(self.actionsGraph)
+        self.actionDiagramsMenu.setMinimumSize(QtCore.QSize(190, 26))
+        self.actionDiagramsMenu.setMaximumSize(QtCore.QSize(190, 26))
+        self.actionDiagramsMenu.setCheckable(False)
+        self.actionDiagramsMenu.setChecked(False)
+        self.actionDiagramsMenu.setPopupMode(QtWidgets.QToolButton.DelayedPopup)
+        self.actionDiagramsMenu.setAutoRaise(False)
+        self.actionDiagramsMenu.setObjectName("actionDiagramsMenu")
+        self.gridLayout.addWidget(self.actionDiagramsMenu, 0, 1, 1, 1)
+        self.actionsGraph1 = QtWidgets.QOpenGLWidget(self.actionsGraph)
+        self.actionsGraph1.setObjectName("actionsGraph1")
+        self.gridLayout.addWidget(self.actionsGraph1, 1, 0, 1, 2)
+        self.tabWidget.addTab(self.actionsGraph, "")
+        self.responsesGraph = QtWidgets.QWidget()
+        self.responsesGraph.setObjectName("responsesGraph")
+        self.gridLayout_3 = QtWidgets.QGridLayout(self.responsesGraph)
+        self.gridLayout_3.setObjectName("gridLayout_3")
+        self.label_3 = QtWidgets.QLabel(self.responsesGraph)
+        self.label_3.setMaximumSize(QtCore.QSize(16777215, 24))
+        font = QtGui.QFont()
+        font.setPointSize(15)
+        self.label_3.setFont(font)
+        self.label_3.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_3.setObjectName("label_3")
+        self.gridLayout_3.addWidget(self.label_3, 0, 0, 1, 1)
+        self.responseDiagramsMenu = QtWidgets.QToolButton(self.responsesGraph)
+        self.responseDiagramsMenu.setMinimumSize(QtCore.QSize(190, 26))
+        self.responseDiagramsMenu.setMaximumSize(QtCore.QSize(190, 26))
+        self.responseDiagramsMenu.setObjectName("responseDiagramsMenu")
+        self.gridLayout_3.addWidget(self.responseDiagramsMenu, 0, 1, 1, 1)
+        self.responsesGraph1 = QtWidgets.QOpenGLWidget(self.responsesGraph)
+        self.responsesGraph1.setObjectName("responsesGraph1")
+        self.gridLayout_3.addWidget(self.responsesGraph1, 1, 0, 1, 2)
+        self.tabWidget.addTab(self.responsesGraph, "")
+        self.gridLayout_2.addWidget(self.tabWidget, 1, 0, 1, 2)
+        MainWindow.setCentralWidget(self.centralwidget)
+        self.statusbar = QtWidgets.QStatusBar(MainWindow)
+        self.statusbar.setObjectName("statusbar")
+        MainWindow.setStatusBar(self.statusbar)
+        
+        self.retranslateUi(MainWindow)
+        self.tabWidget.setCurrentIndex(0)
+        QtCore.QMetaObject.connectSlotsByName(MainWindow)
+
+    def retranslateUi(self, MainWindow):
+        _translate = QtCore.QCoreApplication.translate
+        MainWindow.setWindowTitle(_translate("MainWindow", "Diagrams"))
+        # self.label.setText(_translate("MainWindow", "Diagrams for   "))
+        self.label_2.setText(_translate("MainWindow", "Actions Graph"))
+        self.actionDiagramsMenu.setText(_translate("MainWindow", "Filter Diagrams"))
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.actionsGraph), _translate("MainWindow", "Actions Graph"))
+        self.label_3.setText(_translate("MainWindow", "Responses Graph"))
+        self.responseDiagramsMenu.setText(_translate("MainWindow", "Filter Diagrams"))
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.responsesGraph), _translate("MainWindow", "Responses Graph"))
