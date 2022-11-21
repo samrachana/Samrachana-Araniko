@@ -16,7 +16,7 @@ The current version `version 0.x` is named after ancient Nepali architect Aranik
 
 > Learn more about the [versioning system we follow](https://link-to-docs-versioning).
 
-> If you find a bug or an issue, post it in the [discussion forum]()
+> If you find a bug or an issue, kindly post it in the [discussion forum](https://github.com/samrachana/Samrachana-Araniko/discussions)
 
 ---
 
