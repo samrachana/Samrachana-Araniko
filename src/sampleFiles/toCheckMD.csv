@@ -1,0 +1,9 @@
+,Name,Class,Robject,Flag
+0,ab,segment,"{'type': 'line', 'P1': array([1., 5.]), 'P3': array([5., 5.]), 'P2': array([3., 5.]), 'youngsModulus': 1.0, 'shearModulus': 1.0, 'area': 1.0, 'I': 2.0, 'shapeFactor': 1.0, 'density': 1.0, 'alpha': 1.0, 'class': 'segment', 'parent': None}",True
+1,bc,segment,"{'type': 'line', 'P1': array([5., 5.]), 'P3': array([9., 5.]), 'P2': array([7., 5.]), 'youngsModulus': 1.0, 'shearModulus': 1.0, 'area': 1.0, 'I': 2.0, 'shapeFactor': 1.0, 'density': 1.0, 'alpha': 1.0, 'class': 'segment', 'parent': None}",True
+2,cd,segment,"{'type': 'line', 'P1': array([9., 5.]), 'P3': array([10.,  5.]), 'P2': array([9.5, 5. ]), 'youngsModulus': 1.0, 'shearModulus': 1.0, 'area': 1.0, 'I': 1.0, 'shapeFactor': 1.0, 'density': 1.0, 'alpha': 1.0, 'class': 'segment', 'parent': None}",True
+3,be,segment,"{'type': 'line', 'P1': array([5., 1.]), 'P3': array([5., 5.]), 'P2': array([5., 3.]), 'youngsModulus': 1.0, 'shearModulus': 1.0, 'area': 1.0, 'I': 1.0, 'shapeFactor': 1.0, 'density': 1.0, 'alpha': 1.0, 'class': 'segment', 'parent': None}",True
+4,cf,segment,"{'type': 'line', 'P1': array([9., 1.]), 'P3': array([9., 5.]), 'P2': array([9., 3.]), 'youngsModulus': 1.0, 'shearModulus': 1.0, 'area': 1.0, 'I': 1.0, 'shapeFactor': 1.0, 'density': 1.0, 'alpha': 1.0, 'class': 'segment', 'parent': None}",True
+5,1 - Fixed,support,"{'type': 'Fixed', 'location': array([1., 5.]), 'settlement': array([0., 0., 0.]), 'normal': array([0., 1.]), 'class': 'support'}",True
+6,2 - Fixed,support,"{'type': 'Fixed', 'location': array([5., 1.]), 'settlement': array([0., 0., 0.]), 'normal': array([0., 1.]), 'class': 'support'}",True
+7,3 - Fixed,support,"{'type': 'Fixed', 'location': array([9., 1.]), 'settlement': array([0., 0., 0.]), 'normal': array([0., 1.]), 'class': 'support'}",True

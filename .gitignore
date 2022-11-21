@@ -1,0 +1,17 @@
+**/__pycache__
+/test.
+/test.png
+/.vscode
+/.sampleFiles
+/sampleFiles
+/.virtualenv
+/virtualenv
+**/.vscode
+/build
+src/sdPy/sdPysrc
+/.vscode/settings.json
+/app2dstandalone.txt
+/simulation/video
+/simulation/movie.mp4
+/default.str
+/default.ini
