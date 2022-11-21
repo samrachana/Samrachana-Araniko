@@ -62,7 +62,7 @@ Other dependencies can be installed in virtual environment. The required package
 
 ### Frequently Asked Questions
 
-> Before asking questions in discussion forum, please make sure that your question is not already answered by this file.
+> Before asking questions in discussion forum, please make sure that your question is not already answered in this document.
 
 1. Is Samrachana free to use?
 
