@@ -22,23 +22,58 @@ The current version `version 0.x` is named after ancient Nepali architect Aranik
 
 ### Installation
 
-1. ##### Windows
+1.  ##### Windows
 
-   > Although you can install Samrachana as an executable application, we don't recommend that when the version is labelled `pre-release`. Please wait until the label changes to `beta` or `stable`.
+    > Although you can install Samrachana as an executable application, we don't recommend that when the version is labelled `pre-release`. Please wait until the label changes to `beta` or `stable`.
 
-   To install Samrachana on Windows, you can download installer from [here](https://link-to-installer) and simply run it. After the installation is completed, you can launch Samrachana just like you launch any other software.
+    To install Samrachana on Windows, you can download installer from [here](https://link-to-installer) and simply run it. After the installation is completed, you can launch Samrachana just like you launch any other software.
 
-2. ##### MacOS, Linux or other OS [^1]
+2.  ##### MacOS, Linux or other OS [^1]
 
-   [^1]: Installers for these systems will be available soon.
+    [^1]: Installers for these systems will be available soon.
 
-   At the moment, no installer is available for operration systems other than windows. So, the only option is to [build from source](#build-from-source).
+    At the moment, no installer is available for operration systems other than windows. So, the only option is to [build from source](#build-from-source).
 
-3. ##### Build from source [^2]
+3.  ##### Build from source [^2]
 
-   [^2]: If you want to contribute, please refer [For Developers](#for-developers) section.
+    [^2]: If you want to contribute, please refer [For Developers](#for-developers) section.
 
-   If you just want to try out Samrachana, or want to contribute to this repository, the best way to install it is to build from scratch. There are a few options available. Choose the one that suits you!
+    If you just want to try out Samrachana, or want to contribute to this repository, the best way to install it is to build from scratch. You can follow these steps to build from source:
+
+    1.  Install `Python3.8.5` in your computer. [Official Downloads](https://www.python.org/ftp/python/3.8.5)
+    2.  Clone the repository by typing this in your terminal:  
+         `git clone https://github.com/samrachana/Samrachana-Araniko.git`
+
+        Or, click the button looking like:  
+         ![clone button](./.github/img/code.png)  
+         on top right.
+
+    3.  Create a virtual environmant and run `activate` by typing these on your terminal(Optional).  
+        Replace `directory-of-cloned-repo` by the actual directory in which the repo is cloned. It is `Samrachana-Araniko` by default.  
+        The second line creates virtual environment in a hidden folder titled `venv` inside the directory.  
+        [(You can find the details Here)](https://docs.python.org/3/library/venv.html)  
+        The last line activates virtual environment so that the dependencies are not installed globally.
+
+        ```
+        cd ./directory-of-cloned-repo
+        python3 -m venv ./.venv
+        .venv/Scripts/activate
+        ```
+
+    4.  Install the dependencies:
+
+        ```
+        pip3 install -r ./src/requirements.txt
+        ```
+
+    5.  Run the application:
+
+        ```
+        cd ./src
+        python3 app2d.py
+        ```
+
+        > When you run the application later, make sure to activate virtual environment first.
 
 ---
 
