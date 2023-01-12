@@ -32,7 +32,11 @@ The current version `version 0.x` is named after ancient Nepali architect Aranik
 
     [^1]: Installers for these systems will be available soon.
 
+<<<<<<< HEAD
     At the moment, no installer is available for operration systems other than windows. So, the only option is to [build from source](#build-from-source).
+=======
+   At the moment, no installer is available for operating systems other than Windows. So, the only option is to [build from source](#build-from-source).
+>>>>>>> 3bc6d8329dcf5e7b0548ac41ff7303d78c456369
 
 3.  ##### Build from source [^2]
 
@@ -97,7 +101,7 @@ Other dependencies can be installed in virtual environment. The required package
 
 ### Frequently Asked Questions
 
-> Before asking questions in discussion forum, please make sure that your question is not already answered by this file.
+> Before asking questions in discussion forum, please make sure that your question is not already answered in this document.
 
 1. Is Samrachana free to use?
 
